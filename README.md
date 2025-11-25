@@ -1,66 +1,96 @@
-# devops-learning-journal
-Documenting my DevOps journey from foundations to automation.  Starting November 24, 2025.
+# Cloud Engineering Journey  
+_A hands-on roadmap documenting my progression toward becoming a Cloud Engineer._
 
-## 🌱 Purpose
-This repo serves as my daily and weekly documentation as I learn:
-
-- Linux
-- Networking
-- Git & GitHub
-- Bash scripting
-- AWS Cloud
-- Docker
-- Terraform (Infrastructure as Code)
-- CI/CD pipelines
-- Monitoring & logging
-
-Each folder contains notes, mini projects, troubleshooting logs, and diagrams related to that topic.
+This repository contains my notes, exercises, and projects as I build the foundational and advanced skills required for Cloud Engineering. The focus is on developing real technical depth through practical command-line work and cloud infrastructure builds.
 
 ---
 
-## 📅 Learning Timeline
-
-### Phase 1: Foundations (Weeks 1–3)
-- [ ] Linux fundamentals  
-- [ ] Networking basics  
-- [ ] Git & GitHub  
-- [ ] Bash scripting  
-
-### Phase 2: DevOps Core (Weeks 4–10)
-- [ ] AWS (IAM, EC2, VPC, S3, CloudWatch)
-- [ ] Docker (containers, images, Compose)
-- [ ] Terraform (IaC, modules, real AWS infra)
-
-### Phase 3: DevOps Pro (Weeks 11–16)
-- [ ] CI/CD pipelines
-- [ ] Monitoring & logging
-- [ ] Capstone project
+## 📌 What This Repo Includes
+- **Linux fundamentals** (navigation, permissions, processes, scripting)  
+- **Networking essentials** (IP addressing, routing, DNS, firewalls)  
+- **AWS architecture concepts** (VPC, IAM, EC2, S3, load balancing, serverless, monitoring)  
+- **Infrastructure as Code** with Terraform  
+- **Containers** using Docker  
+- **CI/CD basics** using GitHub Actions  
+- **Troubleshooting notes & system logs**  
+- **Full cloud projects and capstone builds**
 
 ---
 
-## 🧪 Weekly Logs
-All weekly summaries live in the `weekly_logs/` folder.
+## 📁 Repository Structure
+/linux_week1
+/networking_week2
+/aws_architecture
+/terraform
+/docker
+/cicd
+/capstone1_cloud_architecture
+/capstone2_cloud_automation
+/notes
+/archive_devops
+
 
 ---
 
-## 🔧 Tools I Use:
-- Linux (Ubuntu)
-- AWS Cloud
-- Docker
-- Terraform
-- GitHub Actions
-- Jenkins
-- Bash scripting
+## 🎯 Goal
+Develop strong hands-on engineering skills that qualify me for roles such as:
+
+- Cloud Engineer  
+- AWS Cloud Practitioner  
+- Cloud Support Engineer  
+- Cloud DevOps Engineer   
 
 ---
 
-## 📈 Future Projects
-Links will appear here once completed:
-- VPC creation with Terraform
-- Dockerized web app
-- CI/CD pipeline deploying to EC2
-- Full DevOps capstone project
+## 🛠 Tools & Technologies
+- Linux (Ubuntu / WSL)  
+- Git & GitHub  
+- Bash scripting  
+- Networking tools  
+- AWS (SAA-level concepts & architecture)  
+- Terraform  
+- Docker  
+- GitHub Actions  
+- Cloud monitoring & logging tools  
 
 ---
 
-## 📫 Connect With Me...
+## 📚 Learning Method
+This repository follows a structured 16-week Cloud Engineering Fast-Track plan with:
+
+- Weekly learning objectives  
+- Mini-projects  
+- Infrastructure builds  
+- Cloud deployments  
+- Troubleshooting exercises  
+- Clean documentation  
+
+The focus is on **deep, practical technical competence**, not surface-level familiarity.
+
+---
+
+## 🚀 Capstone Projects
+
+### **Capstone 1 — Cloud Architecture Project**
+A full AWS deployment using:
+- VPC (public/private subnets)  
+- EC2  
+- ALB  
+- Auto Scaling  
+- IAM  
+- S3  
+- CloudWatch  
+- Terraform IaC  
+
+### **Capstone 2 — Cloud Automation & Deployment Project**
+A containerized application deployed with:
+- Docker  
+- Terraform  
+- GitHub Actions CI/CD pipeline  
+- AWS ECS or Lambda  
+- Monitoring & alerting setup  
+
+---
+
+## 📬 Contact
+For technical discussions or collaboration, feel free to connect via GitHub.
