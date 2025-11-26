@@ -113,10 +113,8 @@ creating directories, navigating the filesystem, creating and moving files, copy
 
 ### **Screenshot 2 — File operations & review**
 
-
+https://github.com/takiahoward/cloud-engineering-journey/tree/9e8f33274af5b4d61abbd9cd9a2d7c6946d3fe18/01_linux/images
 ---
-
-
 
 ## 📅 Next Steps: Day 2 Preview
 - Users & groups  
